@@ -1,0 +1,44 @@
+1.Deserted Squaure
+	Entities: Orc and Spider
+	Item: Dead Man's Bag(Increase inventory capacity by 4.)
+
+2.Orc Outpost
+	Entities: Orc and Undead
+
+3.Cellar of Kings
+	Entities: Undead and Spider
+	Item: Sword of Kings(Increase strength by 50)
+
+4.Mystic Archives
+	Entities: Orc and Golem
+	Item: Healing Potion I(Increase health by 100)
+
+5 The Stone Sanctum
+	Entities: Golem and Spider
+	
+6.Eldritch Chamber
+	Entities: Golem
+	Item: Healing Potion II(Increase health by 100)
+
+7.Luminous Sanctuary
+	Entities: Spider and Orc
+	Item: The Heart of the Mountain(Increase strength by 100)
+
+8.Warlord's Helm Chamber
+	Entities: Spider and Undead
+	Item: The Warlord's Helmet (Increase health by 50)
+
+9.Whispering Catacombs
+	Entities: Undead
+	Item: Healing Potion III (Increase health by 100)
+
+10.Shadowy Alcove
+	Entities: Spider and Undead
+	
+11.The Warlord's Breastplate Chamber
+	Entities: Undead and Orc
+	Item: The Warlord's Breastplate (Increase health by 100)
+
+12.Throne Room of The Necromancer
+	Entities: Necromancer
+	Item: Healing Potion IV (Increase health by 100)
