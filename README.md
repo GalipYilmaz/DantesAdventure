@@ -1,7 +1,3 @@
-# Ceng209Project
-CENG209-SYSTEM_PROGRAMMING_PROJECT
-Galip Yilmaz 22050111013
-
 # Dante's Adventure
 
 ## Description
